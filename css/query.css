@@ -1,0 +1,41 @@
+@media(max-width:1293px){
+    .hidemobile{
+        display:none;
+    }
+    .hide--button{
+        display: block;
+        color: antiquewhite;
+  
+    }
+    .sidebar{
+        width: 80%;
+    }
+}
+
+
+@media(max-width:1560px){
+    .section--6{
+       margin-left: 20px;
+    }
+    .mask svg{
+    
+    top: 90px;
+    right: 350px;
+    
+
+    }
+    
+}
+@media(max-width:1023px){
+    .h1{
+        font-size: 1rem;
+    }
+}
+@media(max-width:400px){
+    .sidebar{
+        width: 100%;
+    }
+} 
+
+
+
